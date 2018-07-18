@@ -1,0 +1,4 @@
+s.no date				Unique number
+sold to 
+s/o
+to whom 
